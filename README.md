@@ -18,7 +18,7 @@ start.bat
 O In order to use the API you must install the requirements.
 
 ```bash
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 ## Database Configuration
 
